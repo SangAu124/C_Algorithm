@@ -16,7 +16,7 @@ int main() {
 
 	char h1[50];
 	char h2[50];
-	gets(h1);
+//r	gets(h1);
 	gets(h2);
 	cat(h1, h2);
 	printf("%s", h1);
