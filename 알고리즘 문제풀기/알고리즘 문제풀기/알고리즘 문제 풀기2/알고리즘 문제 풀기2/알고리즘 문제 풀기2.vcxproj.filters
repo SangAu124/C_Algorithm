@@ -33,7 +33,7 @@
     <ClCompile Include="송%27sNo.5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
+    <ClCompile Include="송%27s우리만의 메시지.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
